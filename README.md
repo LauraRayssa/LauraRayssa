@@ -18,7 +18,7 @@ Me chamo Laura Rayssa Araújo, tenho 18 anos e estou cursando o 2º Semestre de 
   <img alt="Visual Code" title="Visual Code" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 
 ---
-### Visite meu último projeto
+### Visite meu último projeto web
 Dermalavina, um site destinado à conscientização e prevenção do câncer de pele na população rural de São Paulo.
 
 <a href="https://laurarayssa.github.io/Dermalavina/">
